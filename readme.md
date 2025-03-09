@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://files.catbox.moe/xrx5de.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/n6dmx3.jpeg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/xrx5de.jpg">
     <h1 align="center"> CHARLESKE - POWERED BY CHARLESKE</h1>
   </a>
 </p>  
