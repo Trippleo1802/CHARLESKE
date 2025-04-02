@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://charle-ke.onrender.com
+ https://queenmsession-5f097131c2ec.herokuapp.com/
  
  
  *STEPS TO GET SESSION*
